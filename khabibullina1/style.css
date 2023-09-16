@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.osn{
+    background-image: url(./img/image\ 2.png);
+
+}
+
+
+.container{
+    margin-left: 150px;
+    padding-top:50px ;
+}
+
+header{
+    display: flex;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-top: 25px; 
+}
+
+li a{
+    text-decoration: none;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    gap: 30px;
+}
+
+.logo{
+    width: 46px;
+    height: 71px;
+}
+
+/* 2 */
+.nach{
+    display: flex;
+}
+
+
+.TXT h3{
+  font-size: 24px;  
+  color: aliceblue;
+  font-family: 'roboto';
+}
+
+.TXT h1{
+    font-size: 200px;
+    color: aliceblue;
+    /* position: absolute; */
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+.TXT p{
+    color: aliceblue;
+    font-family: 'roboto';
+    font-size: 16px;
+}
+
+.img5{
+    justify-content: right;
+    /* padding-left: 280px; */
+    justify-content: left ;
+
+ 
+}
+
+.button{
+
+}
